@@ -15,4 +15,6 @@
 alert ('Code examples for CV#1 RSScholl')
 ```
 ### Educacion 
-Belarusian Institute of Law, Faculty of Accounting and Audit - magistracy
+##### Belarusian Institute of Law, Faculty of Accounting and Audit - magistracy
+### Languages 
+##### Russian (nativ), English pre-intermediate 
