@@ -1,1 +1,1 @@
-https://mikitatron.github.io/rsschool-cv/cv
+https://mikitatron.github.io/rsschool-cv/
